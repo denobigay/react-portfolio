@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+    background-image: url("components/pics/geographic_linesH.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.app-container {
+    border-radius: 20px;
+    background-color: #ffffffda; /* or any hex code or color */
+    min-height: 100vh;         /* ensures it fills full screen height */
+  }
+
